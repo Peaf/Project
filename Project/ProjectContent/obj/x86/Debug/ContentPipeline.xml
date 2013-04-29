@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Map\map5.jpg</Source>
+      <Name>Map\map5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Map\map5.xnb</Output>
+      <Time>2013-01-28T22:54:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\map4.jpg</Source>
+      <Name>Map\map4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Map\map4.xnb</Output>
+      <Time>2013-01-28T23:12:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\map8.jpg</Source>
+      <Name>Map\map8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Map\map8.xnb</Output>
+      <Time>2013-01-28T23:13:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\map6.jpg</Source>
+      <Name>Map\map6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Map\map6.xnb</Output>
+      <Time>2013-01-28T23:16:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Map\map2.JPG</Source>
+      <Name>Map\map2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Map\map2.xnb</Output>
+      <Time>2013-01-28T23:17:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Volume\volume0.png</Source>
+      <Name>Volume\volume0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Volume\volume0.xnb</Output>
+      <Time>2013-02-25T18:14:15.3995298+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Volume\volume100.png</Source>
+      <Name>Volume\volume100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Volume\volume100.xnb</Output>
+      <Time>2013-02-25T18:14:15.4015299+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Volume\volume25.png</Source>
+      <Name>Volume\volume25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Volume\volume25.xnb</Output>
+      <Time>2013-02-25T18:14:15.4005299+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Volume\volume50.png</Source>
+      <Name>Volume\volume50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Volume\volume50.xnb</Output>
+      <Time>2013-02-25T18:14:15.4005299+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Volume\volume75.png</Source>
+      <Name>Volume\volume75</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Volume\volume75.xnb</Output>
+      <Time>2013-02-25T18:14:15.4015299+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\OptionsButton.png</Source>
+      <Name>Button\OptionsButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\OptionsButton.xnb</Output>
+      <Time>2013-02-25T18:13:52.0411938+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\PlayButton.png</Source>
+      <Name>Button\PlayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\PlayButton.xnb</Output>
+      <Time>2013-02-25T18:13:52.0421938+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\QuitButton.png</Source>
+      <Name>Button\QuitButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\QuitButton.xnb</Output>
+      <Time>2013-02-25T18:13:52.045194+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\OptionsButton2.png</Source>
+      <Name>Button\OptionsButton2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\OptionsButton2.xnb</Output>
+      <Time>2013-02-25T18:13:52.0421938+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\PlayButton2.png</Source>
+      <Name>Button\PlayButton2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\PlayButton2.xnb</Output>
+      <Time>2013-02-25T18:13:52.0431939+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\PlayButton3.png</Source>
+      <Name>Button\PlayButton3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\PlayButton3.xnb</Output>
+      <Time>2013-02-25T18:13:52.044194+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\QuitButton2.png</Source>
+      <Name>Button\QuitButton2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\QuitButton2.xnb</Output>
+      <Time>2013-02-25T18:13:52.0461941+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Song\Song1.mp3</Source>
+      <Name>Song\Song1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\Song1.xnb</Output>
+      <Extra>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\Song1.wma</Extra>
+      <Time>2013-01-28T22:54:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Song\Song2.mp3</Source>
+      <Name>Song\Song2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\Song2.xnb</Output>
+      <Extra>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\Song2.wma</Extra>
+      <Time>2013-01-28T22:54:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Song\song3.mp3</Source>
+      <Name>Song\song3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\song3.xnb</Output>
+      <Extra>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\song3.wma</Extra>
+      <Time>2013-01-29T21:41:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile1.png</Source>
+      <Name>Tile\Tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile1.xnb</Output>
+      <Time>2013-02-28T17:44:38.8281315+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile2.png</Source>
+      <Name>Tile\Tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile2.xnb</Output>
+      <Time>2013-02-28T17:44:39.3781322+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MainMenu.jpg</Source>
+      <Name>Menu\MainMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Menu\MainMenu.xnb</Output>
+      <Time>2013-01-28T22:53:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Paused.png</Source>
+      <Name>Menu\Paused</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Menu\Paused.xnb</Output>
+      <Time>2013-01-28T22:54:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Title.png</Source>
+      <Name>Menu\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Menu\Title.xnb</Output>
+      <Time>2013-01-28T22:54:00+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Options.jpg</Source>
+      <Name>Menu\Options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Menu\Options.xnb</Output>
+      <Time>2013-02-28T21:02:09.8239894+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player.png</Source>
+      <Name>Sprites\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Sprites\Player.xnb</Output>
+      <Time>2013-01-28T20:25:20+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-02-26T16:15:33.6652539+01:00</Time>
+    </Item>
+    <Item>
+      <Source>snow.png</Source>
+      <Name>snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\snow.xnb</Output>
+      <Time>2013-02-27T11:31:06.9184606+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpeechBox.png</Source>
+      <Name>SpeechBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\SpeechBox.xnb</Output>
+      <Time>2013-02-27T15:50:55.005191+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Barres\HealthBox.png</Source>
+      <Name>Barres\HealthBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Barres\HealthBox.xnb</Output>
+      <Time>2013-02-27T15:51:15.5593666+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Barres\Health.png</Source>
+      <Name>Barres\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Barres\Health.xnb</Output>
+      <Time>2013-02-27T15:52:38.2510963+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Barres\Mana.png</Source>
+      <Name>Barres\Mana</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Barres\Mana.xnb</Output>
+      <Time>2013-02-27T15:52:38.2500963+01:00</Time>
+    </Item>
+    <Item>
+      <Source>pnj1.png</Source>
+      <Name>pnj1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\pnj1.xnb</Output>
+      <Time>2013-02-27T22:29:44.9399748+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Barres\HealthEnemy.png</Source>
+      <Name>Barres\HealthEnemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Barres\HealthEnemy.xnb</Output>
+      <Time>2013-02-27T16:20:52.7230146+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy2.png</Source>
+      <Name>Enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Enemy2.xnb</Output>
+      <Time>2013-01-28T22:53:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy.png</Source>
+      <Name>Sprites\Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Sprites\Enemy.xnb</Output>
+      <Time>2013-02-27T21:40:23.5905953+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy2.png</Source>
+      <Name>Sprites\Enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Sprites\Enemy2.xnb</Output>
+      <Time>2013-02-27T21:16:45.5434877+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemyfight.png</Source>
+      <Name>Sprites\enemyfight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Sprites\enemyfight.xnb</Output>
+      <Time>2013-02-28T15:03:21.8603976+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\AttackButton.png</Source>
+      <Name>Button\AttackButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\AttackButton.xnb</Output>
+      <Time>2013-02-28T14:29:19.927623+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\SpellButton.png</Source>
+      <Name>Button\SpellButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\SpellButton.xnb</Output>
+      <Time>2013-02-28T14:29:23.4568249+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\GameOver.png</Source>
+      <Name>Menu\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Menu\GameOver.xnb</Output>
+      <Time>2013-02-28T00:57:37.2494305+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Song\SongGameOver.mp3</Source>
+      <Name>Song\SongGameOver</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\SongGameOver.xnb</Output>
+      <Extra>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\SongGameOver.wma</Extra>
+      <Time>2013-02-28T00:45:29.75082+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\ObjectsButton.png</Source>
+      <Name>Button\ObjectsButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\ObjectsButton.xnb</Output>
+      <Time>2013-02-28T14:29:23.4558248+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Song\SongFight.mp3</Source>
+      <Name>Song\SongFight</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\SongFight.xnb</Output>
+      <Extra>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\SongFight.wma</Extra>
+      <Time>2013-02-28T14:58:16.0069038+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\StartFight.png</Source>
+      <Name>Button\StartFight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\StartFight.xnb</Output>
+      <Time>2013-02-28T16:14:44.0771056+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\EndFight.png</Source>
+      <Name>Button\EndFight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\EndFight.xnb</Output>
+      <Time>2013-02-28T16:15:15.6679125+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile10.png</Source>
+      <Name>Tile\Tile10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile10.xnb</Output>
+      <Time>2013-02-28T17:52:36.8656007+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile11.png</Source>
+      <Name>Tile\Tile11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile11.xnb</Output>
+      <Time>2013-02-28T17:44:36.6481284+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile3.png</Source>
+      <Name>Tile\Tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile3.xnb</Output>
+      <Time>2013-02-28T17:44:39.3781322+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile4.png</Source>
+      <Name>Tile\Tile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile4.xnb</Output>
+      <Time>2013-02-28T17:44:39.3781322+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile5.png</Source>
+      <Name>Tile\Tile5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile5.xnb</Output>
+      <Time>2013-02-28T17:44:39.3881322+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile6.png</Source>
+      <Name>Tile\Tile6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile6.xnb</Output>
+      <Time>2013-02-28T17:44:36.6381284+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile7.png</Source>
+      <Name>Tile\Tile7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile7.xnb</Output>
+      <Time>2013-02-28T17:44:36.6381284+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile8.png</Source>
+      <Name>Tile\Tile8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile8.xnb</Output>
+      <Time>2013-02-28T17:44:36.6481284+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Tile9.png</Source>
+      <Name>Tile\Tile9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Tile9.xnb</Output>
+      <Time>2013-02-28T17:44:36.6481284+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile\Maison.png</Source>
+      <Name>Tile\Maison</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Tile\Maison.xnb</Output>
+      <Time>2013-02-28T20:48:51.171309+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\FightBack.png</Source>
+      <Name>Menu\FightBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Menu\FightBack.xnb</Output>
+      <Time>2013-02-28T21:02:00.5584594+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\inventaire.png</Source>
+      <Name>Menu\inventaire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Menu\inventaire.xnb</Output>
+      <Time>2013-02-28T21:02:17.1804101+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Song\Victory.mp3</Source>
+      <Name>Song\Victory</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\Victory.xnb</Output>
+      <Extra>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Song\Victory.wma</Extra>
+      <Time>2013-02-28T21:01:15.7788982+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Intro.wmv</Source>
+      <Name>Intro</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Intro.xnb</Output>
+      <Extra>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Intro.wmv</Extra>
+      <Time>2013-02-28T23:47:18.8447846+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Button\Next.png</Source>
+      <Name>Button\Next</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Button\Next.xnb</Output>
+      <Time>2013-02-28T23:48:05.8674741+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Book.png</Source>
+      <Name>Book</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Book.xnb</Output>
+      <Time>2013-02-28T23:49:04.662837+01:00</Time>
+    </Item>
+    <Item>
+      <Source>AnimationFight.jpg</Source>
+      <Name>AnimationFight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\AnimationFight.xnb</Output>
+      <Time>2013-04-20T16:20:54.3247976+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Potion.png</Source>
+      <Name>Potion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Potion.xnb</Output>
+      <Time>2013-04-29T14:58:42.4960118+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword.png</Source>
+      <Name>Sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Sword.xnb</Output>
+      <Time>2013-04-29T16:23:53.2013274+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PnjAnimation.png</Source>
+      <Name>Sprites\PnjAnimation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Sprites\PnjAnimation.xnb</Output>
+      <Time>2013-04-29T16:57:43.4974537+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Armor.png</Source>
+      <Name>Armor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Armor.xnb</Output>
+      <Time>2013-04-29T20:24:53.3694017+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Healer.png</Source>
+      <Name>Sprites\Healer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\Sprites\Healer.xnb</Output>
+      <Time>2013-04-29T22:59:35.4893086+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Armand\Desktop\Projet\Project victor\Project\ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Armand\Desktop\Projet\Project victor\Project\ProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Armand\Desktop\Projet\Project victor\Project\Project\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-08-03T17:33:58.6222029+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
