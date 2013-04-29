@@ -15,14 +15,14 @@ namespace Project
         static cButton btnStartFight, btnAttack1, btnSpell, btnObjects, btnEndFight;
         static Texture2D speechBoxTexture, healthBoxTexture, manaTexture, enemyHealthTexture, fightBackTexture, enemyFightTexture, healthTexture, persoFight;
         static Rectangle speechBoxRectangle;
-        static int turn = -1, degat, manaPerdu, timerAnimation = 0, colonne = 0, ligne = 0, nbreAnimation = 0;
+        static int turn = -1, degat, manaPerdu, timerAnimation = 0, colonne = 0, ligne = 0, nbreAnimation = 0, lvlBefore;
         static Rectangle healthBoxRectangle, healthRectangle, manaRectangle, enemyHealthRectangle, fightBackRectangle, enemyFightRectangle, persoFightRectangle;
         static MouseState pastMouse;
         static string attackChoisi = "";
         static Random rand = new Random();
         static KeyboardState presentKey, pastKey;
         static Song songGameOver, songVictory, song2;
-        static bool Isfighting = false, xp = true;
+        static bool Isfighting = false;
         static Vector2 persoFightPosition;
         static Vector2 origin;
 
@@ -76,7 +76,6 @@ namespace Project
         {
             timerAnimation++;
             ligne = 0;
-
             if (timerAnimation == 15)
             {
                 timerAnimation = 0;
@@ -107,6 +106,7 @@ namespace Project
             if (turn == -1 && btnStartFight.isClicked)
             {
                 turn = 0;
+                Game1.enemy.healthMax = Game1.enemy.health;
             }
             if (turn % 2 == 0 && Game1.player.health > 0 && Game1.enemy.health > 0)
             {
@@ -194,15 +194,10 @@ namespace Project
             }
             if (Game1.enemy.health <= 0)
             {
-                if (xp)
-                {
-                    Game1.player.Experience += 100;
-                    xp = false;
-                }
-
                 Game1.enemy.health = 0;
                 if (btnEndFight.isClicked)
                 {
+                    Game1.player.Experience += Game1.enemy.healthMax;
                     Game1.player.persoPosition.X = Game1.previousPosX;
                     Game1.player.persoPosition.Y = Game1.previousPosY;
                     Game1.player.fight = false;
@@ -213,7 +208,6 @@ namespace Project
                     Game1.enemy.enemyPosition.Y = -100;
                     Game1.enemy.enemyRectangle = new Rectangle(0, 0, 0, 0);
                     MediaPlayer.Play(song2);
-                    xp = true;
                 }
             }
 
@@ -262,12 +256,7 @@ namespace Project
                 spriteBatch.DrawString(Game1.spriteFont, "Do you want to use the attack: " + attackChoisi + "?                                                                                                                        (press ENTER to continue)", new Vector2(10, 675), Color.Black);
 
             }
-            if (Game1.player.lvlup)
-            {
-                btnEndFight.Draw(spriteBatch);
-                spriteBatch.DrawString(Game1.spriteFont, "You lvlup !!!                                                                                                 click the ARROW to continue", new Vector2(10, 675), Color.Black);
-
-            }
+            
             else if (Game1.enemy.health <= 0)
             {
                 btnEndFight.Draw(spriteBatch);

@@ -16,8 +16,8 @@ namespace Project
         public static Rectangle persoRectangle;
         int screenWidth = 1366, screenHeight = 768;
 
-        int vitesse = 4;
-        public int mapnumber = 5, health, ligne = 1, colonne = 1, mana, healthMax, manaMax, Experience, Strenght, Intelligence, Degat, Armor, Lvl;
+        int vitesse = 2;
+        public int mapnumber = 5, health, ligne = 1, colonne = 1, mana, healthMax, manaMax, Experience, Strenght, Intelligence, Degat, Armor, Lvl, ExperienceNext;
         public string Direction;
         int timer = 0;
         public bool fight = false, lvlup;
@@ -45,11 +45,12 @@ namespace Project
         public void Update(GameTime gametime)
         {
             KeyboardState KState = Keyboard.GetState();
-            lvlup = (Experience  == 100);
+            lvlup = (Experience >= 100* Lvl);
 
             if (lvlup)
             {
-                Experience = 0;
+                ExperienceNext = Experience - (100 * Lvl);
+                Experience = ExperienceNext;
                 healthMax += 500;
                 manaMax += 100;
                 health = healthMax;

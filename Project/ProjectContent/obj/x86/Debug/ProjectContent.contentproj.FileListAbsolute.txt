@@ -2,3 +2,4 @@ c:\users\armand\documents\visual studio 2010\Projects\Project\Project\ProjectCon
 C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Project\Project\ProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance2\Project\Project\ProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\Armand\Desktop\Projet\Project victor\Project\ProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Victor\Documents\GitHub\Project\Project\ProjectContent\obj\x86\Debug\ResolveAssemblyReference.cache

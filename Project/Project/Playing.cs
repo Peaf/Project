@@ -49,7 +49,7 @@ namespace Project
 
             //speech 
             speechBoxTexture = Content.Load<Texture2D>("SpeechBox");
-            speechBoxRectangle = new Rectangle(0, 650, speechBoxTexture.Width, speechBoxTexture.Height);
+            speechBoxRectangle = new Rectangle(0, 675, speechBoxTexture.Width, speechBoxTexture.Height);
 
             //Book
             bookTexture = Content.Load<Texture2D>("Book");
@@ -129,6 +129,7 @@ namespace Project
                 if (Game1.healer.Collision(Game1.player.persoPosition))
                 {
                     Game1.healer.Update(gameTime, 1, "map5");
+                    Game1.player.health = Game1.player.healthMax;
                 }
                 //Enemy
                 if (Game1.enemy1.health > 0)
@@ -202,6 +203,10 @@ namespace Project
             if (Isfighting)
             {
                 CurrentGameState = Game1.GameState.Fight;
+            }
+            if (lvlBefore != Game1.player.Lvl)
+            {
+                lvlUp = true;
             }
 
             if (!inventaire)
@@ -280,20 +285,21 @@ namespace Project
 
         public static void Draw(GameTime gameTime, SpriteBatch spriteBatch, int screenWidth, int screenHeight)
         {
+            presentKey = Keyboard.GetState();
             //priteBatch.Draw(Content.Load<Texture2D>("Map/map" + Convert.ToSingle(player.mapnumber)), new Rectangle(0, 0, screenWidth, screenHeight), Color.White);
             map.Draw(spriteBatch);
-           if (map == map5)
+            if (map == map5)
             {
                 Game1.healer.Draw(spriteBatch, 0, "map5");
                 if (lvlUp)
-                { 
+                {
                     spriteBatch.Draw(speechBoxTexture, speechBoxRectangle, Color.White);
                     spriteBatch.DrawString(Game1.spriteFont, "You level up !!!", new Vector2(10, 675), Color.Black);
                     Game1.spriteBatch.DrawString(Game1.spriteFont, "Level : " + Game1.player.Lvl, new Vector2(10, 695), Color.Black);
                     Game1.spriteBatch.DrawString(Game1.spriteFont, "Health : " + Game1.player.health + "/" + Game1.player.healthMax, new Vector2(10, 720), Color.Black);
-                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Experience " + Game1.player.Experience + "/" + (Game1.player.Lvl * 100) + "                                                                                                                                                  Press Enter to continue", new Vector2(10, 745), Color.Black);  
+                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Experience " + Game1.player.Experience + "/" + (Game1.player.Lvl * 100) + "                                                                                                                                                  Press Enter to continue", new Vector2(10, 745), Color.Black);
                     if (presentKey.IsKeyDown(Keys.Enter) && pastKey.IsKeyUp(Keys.Enter))
-                    { 
+                    {
                         lvlUp = false;
                         lvlBefore = Game1.player.Lvl;
                     }
