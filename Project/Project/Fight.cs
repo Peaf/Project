@@ -34,10 +34,7 @@ namespace Project
 
             fightBackTexture = Content.Load<Texture2D>("Menu/FightBack");
             fightBackRectangle = new Rectangle(0, 0, screenWidth, screenHeight);
-
-            enemyFightTexture = Content.Load<Texture2D>("Sprites/enemyFight");
-            enemyFightRectangle = new Rectangle(1000, screenHeight / 2 + 120, 103, 60);
-
+            
             btnStartFight = new cButton(Content.Load<Texture2D>("Button/StartFight"), 150, 70);
             btnStartFight.setPosition(new Vector2(screenWidth / 2 - 100, screenHeight / 2));
 
@@ -102,6 +99,7 @@ namespace Project
             healthRectangle = new Rectangle(16, 14, (Game1.player.health * 379) / Game1.player.healthMax, 35);
             manaRectangle = new Rectangle(115, 62, (Game1.player.mana * 280) / Game1.player.manaMax, manaTexture.Height);
             enemyHealthRectangle = new Rectangle((1030 - Game1.enemy.health / 2), (screenHeight / 2 - enemyHealthTexture.Height / 2 + 100), Game1.enemy.health, enemyHealthTexture.Height);
+            
 
             if (turn == -1 && btnStartFight.isClicked)
             {
@@ -225,7 +223,7 @@ namespace Project
         {
             spriteBatch.Draw(fightBackTexture, fightBackRectangle, Color.White);
             //Game1.player.Draw(spriteBatch);
-            spriteBatch.Draw(enemyFightTexture, enemyFightRectangle, Color.White);
+            spriteBatch.Draw(Game1.enemy.enemyTexture, new Vector2(970, screenHeight / 2 + 120), new Rectangle(2 * Game1.enemy.Rectenemy.Width, 1 * Game1.enemy.Rectenemy.Height, Game1.enemy.Rectenemy.Width, Game1.enemy.Rectenemy.Height), Color.White);
             spriteBatch.Draw(healthBoxTexture, healthBoxRectangle, Color.White);
             spriteBatch.Draw(manaTexture, manaRectangle, Color.White);
             spriteBatch.Draw(healthTexture, healthRectangle, Color.White);

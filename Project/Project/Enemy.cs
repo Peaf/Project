@@ -12,9 +12,9 @@ namespace Project
     public class Enemy
     {
 
-        Texture2D enemyTexture;
+        public Texture2D enemyTexture;
         public Vector2 enemyPosition;
-        Rectangle Rectenemy;
+        public Rectangle Rectenemy;
         public Rectangle enemyRectangle;
         int screenWidth = 1366, screenHeight = 768;
 
@@ -22,7 +22,7 @@ namespace Project
         public int mapnumber = 5;
         public int ligne = 1;
         public int colonne = 1;
-        string Direction;
+        public string Direction;
         int timer = 0, timerEnemy = 0;
         public int health, healthMax;
 
