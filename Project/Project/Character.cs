@@ -67,12 +67,12 @@ namespace Project
                     {
                         ligne = 6;
                         timer++;
-                        if (timer == 15)
+                        if (timer == 20)
                         {
                             timer = 0;
                             if (colonne == 5)
                             {
-                                colonne = 2;
+                                colonne = 1;
                             }
                             else
                             {
@@ -127,7 +127,7 @@ namespace Project
                     {
                         ligne = 5;
                         timer++;
-                        if (timer == 15)
+                        if (timer == 20)
                         {
                             timer = 0;
                             if (colonne == 5)
@@ -187,7 +187,7 @@ namespace Project
                     {
                         timer++;
                         ligne = 4;
-                        if (timer == 15)
+                        if (timer == 20)
                         {
                             timer = 0;
                             if (colonne == 5)
@@ -249,12 +249,16 @@ namespace Project
                     {
                         timer++;
                         ligne = 7;
-                        if (timer == 15)
+                        if (timer == 20)
                         {
                             timer = 0;
                             if (colonne == 5)
                             {
-                                colonne = 2;
+                                colonne = 1;
+                            }
+                            if (colonne == 3)
+                            {
+                                colonne = 1;
                             }
                             else
                             {
