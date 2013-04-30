@@ -19,7 +19,7 @@ namespace Project
         int vitesse = 2; //test git hub
         public int mapnumber = 5, health, ligne = 1, colonne = 1, mana, healthMax, manaMax, Experience, Strenght, Intelligence, Degat, Armor, Lvl, ExperienceNext;
         public string Direction;
-        int timer = 0;
+        int timer = 0, i = 0;
         public bool fight = false, lvlup;
         public Map map, map4, map5;
 
@@ -45,7 +45,7 @@ namespace Project
         public void Update(GameTime gametime)
         {
             KeyboardState KState = Keyboard.GetState();
-            lvlup = (Experience >= 100* Lvl);
+            lvlup = (Experience >= 100 * Lvl);
 
             if (lvlup)
             {
@@ -74,6 +74,10 @@ namespace Project
                             {
                                 colonne = 1;
                             }
+                            if (colonne == 3)
+                            {
+                                colonne = 1;
+                            }
                             else
                             {
                                 colonne++;
@@ -88,7 +92,7 @@ namespace Project
                         }
                         else
                         {
-                            persoPosition += (new Vector2((-2*vitesse), 0));
+                            persoPosition += (new Vector2((-2 * vitesse), 0));
                         }
                     }
                     else
@@ -119,7 +123,7 @@ namespace Project
                             persoPosition += (new Vector2((-vitesse), 0));
                         }
                     }
-                    
+
                 }
                 else if (KState.IsKeyDown(Keys.Z))
                 {
@@ -148,7 +152,7 @@ namespace Project
                         }
                         else
                         {
-                            persoPosition += new Vector2(0, -2*vitesse);
+                            persoPosition += new Vector2(0, -2 * vitesse);
                         }
                     }
                     else
@@ -158,7 +162,7 @@ namespace Project
                         if (timer == 15)
                         {
                             timer = 0;
-                            if (colonne == 5)
+                            if (colonne == 3)
                             {
                                 colonne = 1;
                             }
@@ -179,7 +183,7 @@ namespace Project
                             persoPosition += new Vector2(0, -vitesse);
                         }
                     }
-                    
+
                 }
                 else if (KState.IsKeyDown(Keys.S))
                 {
@@ -208,7 +212,7 @@ namespace Project
                         }
                         else
                         {
-                            persoPosition += new Vector2(0, 2*vitesse);
+                            persoPosition += new Vector2(0, 2 * vitesse);
                         }
 
                     }
@@ -239,9 +243,7 @@ namespace Project
                         {
                             persoPosition += new Vector2(0, vitesse);
                         }
-
                     }
-                    
                 }
                 else if (KState.IsKeyDown(Keys.D))
                 {
@@ -249,9 +251,11 @@ namespace Project
                     {
                         timer++;
                         ligne = 7;
+
                         if (timer == 20)
                         {
                             timer = 0;
+
                             if (colonne == 5)
                             {
                                 colonne = 1;
@@ -273,7 +277,7 @@ namespace Project
                         }
                         else
                         {
-                            persoPosition += new Vector2(2* vitesse, 0);
+                            persoPosition += new Vector2(2 * vitesse, 0);
                         }
 
                     }
@@ -305,11 +309,11 @@ namespace Project
                         }
 
                     }
-                   
+
                 }
-           
+
             }
-            
+
             persoRectangle = new Rectangle((int)persoPosition.X, (int)persoPosition.Y + persoTexture.Height / 16, persoTexture.Width / 12, persoTexture.Height / 16);
         }
 
