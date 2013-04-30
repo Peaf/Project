@@ -16,7 +16,7 @@ namespace Project
         public static Rectangle persoRectangle;
         int screenWidth = 1366, screenHeight = 768;
 
-        int vitesse = 2;
+        int vitesse = 2; //test git hub
         public int mapnumber = 5, health, ligne = 1, colonne = 1, mana, healthMax, manaMax, Experience, Strenght, Intelligence, Degat, Armor, Lvl, ExperienceNext;
         public string Direction;
         int timer = 0;
