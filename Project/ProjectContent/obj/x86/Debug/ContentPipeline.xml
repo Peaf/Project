@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Sprites\Player.xnb</Output>
-      <Time>2013-04-30T00:31:01.9443206+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\Player.xnb</Output>
+      <Time>2013-04-30T11:15:13.6689012+02:00</Time>
     </Item>
     <Item>
       <Source>Enemy2.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Enemy2.xnb</Output>
-      <Time>2013-04-30T00:31:01.3802883+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Enemy2.xnb</Output>
+      <Time>2013-04-30T11:15:13.4138867+02:00</Time>
     </Item>
     <Item>
       <Source>Menu\MainMenu.jpg</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Menu\MainMenu.xnb</Output>
-      <Time>2013-04-30T00:31:01.4982951+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Menu\MainMenu.xnb</Output>
+      <Time>2013-04-30T11:15:13.4848907+02:00</Time>
     </Item>
     <Item>
       <Source>Map\map5.jpg</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Map\map5.xnb</Output>
-      <Time>2013-04-30T00:31:01.4302912+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Map\map5.xnb</Output>
+      <Time>2013-04-30T11:15:13.4468885+02:00</Time>
     </Item>
     <Item>
       <Source>Button\OptionsButton.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\OptionsButton.xnb</Output>
-      <Time>2013-04-30T00:31:01.3652874+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\OptionsButton.xnb</Output>
+      <Time>2013-04-30T11:15:13.4108865+02:00</Time>
     </Item>
     <Item>
       <Source>Menu\Paused.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Menu\Paused.xnb</Output>
-      <Time>2013-04-30T00:31:01.5062955+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Menu\Paused.xnb</Output>
+      <Time>2013-04-30T11:15:13.4888909+02:00</Time>
     </Item>
     <Item>
       <Source>Button\PlayButton.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\PlayButton.xnb</Output>
-      <Time>2013-04-30T00:31:01.3692877+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\PlayButton.xnb</Output>
+      <Time>2013-04-30T11:15:13.4108865+02:00</Time>
     </Item>
     <Item>
       <Source>Button\QuitButton.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\QuitButton.xnb</Output>
-      <Time>2013-04-30T00:31:01.374288+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\QuitButton.xnb</Output>
+      <Time>2013-04-30T11:15:13.4118865+02:00</Time>
     </Item>
     <Item>
       <Source>Menu\Title.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Menu\Title.xnb</Output>
-      <Time>2013-04-30T00:31:01.5662989+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Menu\Title.xnb</Output>
+      <Time>2013-04-30T11:15:13.5038918+02:00</Time>
     </Item>
     <Item>
       <Source>Map\map4.jpg</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Map\map4.xnb</Output>
-      <Time>2013-04-30T00:31:01.4212906+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Map\map4.xnb</Output>
+      <Time>2013-04-30T11:15:13.4408882+02:00</Time>
     </Item>
     <Item>
       <Source>Map\map8.jpg</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Map\map8.xnb</Output>
-      <Time>2013-04-30T00:31:01.4712935+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Map\map8.xnb</Output>
+      <Time>2013-04-30T11:15:13.4688898+02:00</Time>
     </Item>
     <Item>
       <Source>Map\map6.jpg</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Map\map6.xnb</Output>
-      <Time>2013-04-30T00:31:01.4552926+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Map\map6.xnb</Output>
+      <Time>2013-04-30T11:15:13.4578892+02:00</Time>
     </Item>
     <Item>
       <Source>Map\map2.JPG</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Map\map2.xnb</Output>
-      <Time>2013-04-30T00:31:01.4052897+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Map\map2.xnb</Output>
+      <Time>2013-04-30T11:15:13.4308876+02:00</Time>
     </Item>
     <Item>
       <Source>Menu\Options.jpg</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Menu\Options.xnb</Output>
-      <Time>2013-04-30T00:31:01.5032953+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Menu\Options.xnb</Output>
+      <Time>2013-04-30T11:15:13.4878909+02:00</Time>
     </Item>
     <Item>
       <Source>Button\OptionsButton2.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\OptionsButton2.xnb</Output>
-      <Time>2013-04-30T00:31:01.3682876+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\OptionsButton2.xnb</Output>
+      <Time>2013-04-30T11:15:13.4108865+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile1.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile1.xnb</Output>
-      <Time>2013-04-30T00:31:01.9533211+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile1.xnb</Output>
+      <Time>2013-04-30T11:15:13.6729015+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile2.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile2.xnb</Output>
-      <Time>2013-04-30T00:31:01.9573213+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile2.xnb</Output>
+      <Time>2013-04-30T11:15:13.6749016+02:00</Time>
     </Item>
     <Item>
       <Source>Button\PlayButton2.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\PlayButton2.xnb</Output>
-      <Time>2013-04-30T00:31:01.3712878+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\PlayButton2.xnb</Output>
+      <Time>2013-04-30T11:15:13.4118865+02:00</Time>
     </Item>
     <Item>
       <Source>Button\PlayButton3.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\PlayButton3.xnb</Output>
-      <Time>2013-04-30T00:31:01.3732879+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\PlayButton3.xnb</Output>
+      <Time>2013-04-30T11:15:13.4118865+02:00</Time>
     </Item>
     <Item>
       <Source>Button\QuitButton2.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\QuitButton2.xnb</Output>
-      <Time>2013-04-30T00:31:01.375288+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\QuitButton2.xnb</Output>
+      <Time>2013-04-30T11:15:13.4128866+02:00</Time>
     </Item>
     <Item>
       <Source>Volume\volume0.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Volume\volume0.xnb</Output>
-      <Time>2013-04-30T00:31:01.9793226+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Volume\volume0.xnb</Output>
+      <Time>2013-04-30T11:15:13.6779018+02:00</Time>
     </Item>
     <Item>
       <Source>Volume\volume100.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Volume\volume100.xnb</Output>
-      <Time>2013-04-30T00:31:01.9803226+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Volume\volume100.xnb</Output>
+      <Time>2013-04-30T11:15:13.6779018+02:00</Time>
     </Item>
     <Item>
       <Source>Volume\volume25.png</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Volume\volume25.xnb</Output>
-      <Time>2013-04-30T00:31:01.9813227+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Volume\volume25.xnb</Output>
+      <Time>2013-04-30T11:15:13.6789018+02:00</Time>
     </Item>
     <Item>
       <Source>Volume\volume50.png</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Volume\volume50.xnb</Output>
-      <Time>2013-04-30T00:31:01.9813227+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Volume\volume50.xnb</Output>
+      <Time>2013-04-30T11:15:13.6789018+02:00</Time>
     </Item>
     <Item>
       <Source>Volume\volume75.png</Source>
@@ -223,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Volume\volume75.xnb</Output>
-      <Time>2013-04-30T00:31:01.9843229+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Volume\volume75.xnb</Output>
+      <Time>2013-04-30T11:15:13.6809019+02:00</Time>
     </Item>
     <Item>
       <Source>snow.png</Source>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\snow.xnb</Output>
-      <Time>2013-04-30T00:31:02.1723336+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\snow.xnb</Output>
+      <Time>2013-04-30T11:15:13.6859022+02:00</Time>
     </Item>
     <Item>
       <Source>SpeechBox.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\SpeechBox.xnb</Output>
-      <Time>2013-04-30T00:31:01.9393203+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\SpeechBox.xnb</Output>
+      <Time>2013-04-30T11:15:13.6669011+02:00</Time>
     </Item>
     <Item>
       <Source>Barres\HealthBox.png</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Barres\HealthBox.xnb</Output>
-      <Time>2013-04-30T00:31:01.3422861+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Barres\HealthBox.xnb</Output>
+      <Time>2013-04-30T11:15:13.3488829+02:00</Time>
     </Item>
     <Item>
       <Source>Barres\Health.png</Source>
@@ -259,8 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Barres\Health.xnb</Output>
-      <Time>2013-04-30T00:31:01.340286+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Barres\Health.xnb</Output>
+      <Time>2013-04-30T11:15:13.3478829+02:00</Time>
     </Item>
     <Item>
       <Source>Barres\Mana.png</Source>
@@ -268,8 +268,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Barres\Mana.xnb</Output>
-      <Time>2013-04-30T00:31:01.3442862+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Barres\Mana.xnb</Output>
+      <Time>2013-04-30T11:15:13.3488829+02:00</Time>
     </Item>
     <Item>
       <Source>Barres\HealthEnemy.png</Source>
@@ -277,8 +277,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Barres\HealthEnemy.xnb</Output>
-      <Time>2013-04-30T00:31:01.3432862+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Barres\HealthEnemy.xnb</Output>
+      <Time>2013-04-30T11:15:13.3488829+02:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Enemy2.png</Source>
@@ -286,8 +286,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Sprites\Enemy2.xnb</Output>
-      <Time>2013-04-30T00:31:01.9413204+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\Enemy2.xnb</Output>
+      <Time>2013-04-30T11:15:13.6679012+02:00</Time>
     </Item>
     <Item>
       <Source>Sprites\enemy.png</Source>
@@ -295,8 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemy.xnb</Output>
-      <Time>2013-04-30T00:31:01.9463207+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemy.xnb</Output>
+      <Time>2013-04-30T11:15:13.6699013+02:00</Time>
     </Item>
     <Item>
       <Source>pnj1.png</Source>
@@ -304,8 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\pnj1.xnb</Output>
-      <Time>2013-04-30T00:31:02.1713335+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\pnj1.xnb</Output>
+      <Time>2013-04-30T11:15:13.6859022+02:00</Time>
     </Item>
     <Item>
       <Source>Menu\GameOver.png</Source>
@@ -313,8 +313,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Menu\GameOver.xnb</Output>
-      <Time>2013-04-30T00:31:01.4922947+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Menu\GameOver.xnb</Output>
+      <Time>2013-04-30T11:15:13.4828906+02:00</Time>
     </Item>
     <Item>
       <Source>Button\AttackButton.png</Source>
@@ -322,8 +322,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\AttackButton.xnb</Output>
-      <Time>2013-04-30T00:31:01.3602872+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\AttackButton.xnb</Output>
+      <Time>2013-04-30T11:15:13.4088864+02:00</Time>
     </Item>
     <Item>
       <Source>Button\SpellButton.png</Source>
@@ -331,8 +331,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\SpellButton.xnb</Output>
-      <Time>2013-04-30T00:31:01.3762881+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\SpellButton.xnb</Output>
+      <Time>2013-04-30T11:15:13.4128866+02:00</Time>
     </Item>
     <Item>
       <Source>Button\ObjectsButton.png</Source>
@@ -340,8 +340,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\ObjectsButton.xnb</Output>
-      <Time>2013-04-30T00:31:01.3642874+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\ObjectsButton.xnb</Output>
+      <Time>2013-04-30T11:15:13.4098864+02:00</Time>
     </Item>
     <Item>
       <Source>Sprites\enemyfight.png</Source>
@@ -349,8 +349,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemyfight.xnb</Output>
-      <Time>2013-04-30T00:31:01.9483208+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemyfight.xnb</Output>
+      <Time>2013-04-30T11:15:13.6709014+02:00</Time>
     </Item>
     <Item>
       <Source>Button\StartFight.png</Source>
@@ -358,8 +358,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\StartFight.xnb</Output>
-      <Time>2013-04-30T00:31:01.3772881+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\StartFight.xnb</Output>
+      <Time>2013-04-30T11:15:13.4128866+02:00</Time>
     </Item>
     <Item>
       <Source>Button\EndFight.png</Source>
@@ -367,8 +367,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\EndFight.xnb</Output>
-      <Time>2013-04-30T00:31:01.3622873+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\EndFight.xnb</Output>
+      <Time>2013-04-30T11:15:13.4088864+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile10.png</Source>
@@ -376,8 +376,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile10.xnb</Output>
-      <Time>2013-04-30T00:31:01.9543211+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile10.xnb</Output>
+      <Time>2013-04-30T11:15:13.6739015+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile11.png</Source>
@@ -385,8 +385,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile11.xnb</Output>
-      <Time>2013-04-30T00:31:01.9553212+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile11.xnb</Output>
+      <Time>2013-04-30T11:15:13.6739015+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile3.png</Source>
@@ -394,8 +394,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile3.xnb</Output>
-      <Time>2013-04-30T00:31:01.9583214+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile3.xnb</Output>
+      <Time>2013-04-30T11:15:13.6749016+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile4.png</Source>
@@ -403,8 +403,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile4.xnb</Output>
-      <Time>2013-04-30T00:31:01.9713221+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile4.xnb</Output>
+      <Time>2013-04-30T11:15:13.6759016+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile5.png</Source>
@@ -412,8 +412,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile5.xnb</Output>
-      <Time>2013-04-30T00:31:01.9723222+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile5.xnb</Output>
+      <Time>2013-04-30T11:15:13.6759016+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile6.png</Source>
@@ -421,8 +421,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile6.xnb</Output>
-      <Time>2013-04-30T00:31:01.9733222+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile6.xnb</Output>
+      <Time>2013-04-30T11:15:13.6759016+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile7.png</Source>
@@ -430,8 +430,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile7.xnb</Output>
-      <Time>2013-04-30T00:31:01.9743223+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile7.xnb</Output>
+      <Time>2013-04-30T11:15:13.6769017+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile8.png</Source>
@@ -439,8 +439,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile8.xnb</Output>
-      <Time>2013-04-30T00:31:01.9743223+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile8.xnb</Output>
+      <Time>2013-04-30T11:15:13.6769017+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile9.png</Source>
@@ -448,8 +448,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile9.xnb</Output>
-      <Time>2013-04-30T00:31:01.9763224+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile9.xnb</Output>
+      <Time>2013-04-30T11:15:13.6769017+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Maison.png</Source>
@@ -457,8 +457,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Tile\Maison.xnb</Output>
-      <Time>2013-04-30T00:31:01.952321+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Maison.xnb</Output>
+      <Time>2013-04-30T11:15:13.6729015+02:00</Time>
     </Item>
     <Item>
       <Source>Menu\FightBack.png</Source>
@@ -466,8 +466,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Menu\FightBack.xnb</Output>
-      <Time>2013-04-30T00:31:01.4902946+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Menu\FightBack.xnb</Output>
+      <Time>2013-04-30T11:15:13.4818905+02:00</Time>
     </Item>
     <Item>
       <Source>Menu\inventaire.png</Source>
@@ -475,8 +475,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Menu\inventaire.xnb</Output>
-      <Time>2013-04-30T00:31:01.5702992+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Menu\inventaire.xnb</Output>
+      <Time>2013-04-30T11:15:13.5048919+02:00</Time>
     </Item>
     <Item>
       <Source>Button\Next.png</Source>
@@ -484,8 +484,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\Next.xnb</Output>
-      <Time>2013-04-30T00:31:01.3632873+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\Next.xnb</Output>
+      <Time>2013-04-30T11:15:13.4098864+02:00</Time>
     </Item>
     <Item>
       <Source>Book.png</Source>
@@ -493,8 +493,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Book.xnb</Output>
-      <Time>2013-04-30T00:31:01.3462864+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Book.xnb</Output>
+      <Time>2013-04-30T11:15:13.349883+02:00</Time>
     </Item>
     <Item>
       <Source>AnimationFight.jpg</Source>
@@ -502,8 +502,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\AnimationFight.xnb</Output>
-      <Time>2013-04-30T00:31:01.3362858+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\AnimationFight.xnb</Output>
+      <Time>2013-04-30T11:15:13.3468828+02:00</Time>
     </Item>
     <Item>
       <Source>Potion.png</Source>
@@ -511,8 +511,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Potion.xnb</Output>
-      <Time>2013-04-30T00:31:01.5712992+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Potion.xnb</Output>
+      <Time>2013-04-30T11:15:13.5048919+02:00</Time>
     </Item>
     <Item>
       <Source>Sword.png</Source>
@@ -520,8 +520,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Sword.xnb</Output>
-      <Time>2013-04-30T00:31:01.9503209+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sword.xnb</Output>
+      <Time>2013-04-30T11:15:13.6719014+02:00</Time>
     </Item>
     <Item>
       <Source>Sprites\PnjAnimation.png</Source>
@@ -529,8 +529,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Sprites\PnjAnimation.xnb</Output>
-      <Time>2013-04-30T00:31:01.9453206+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\PnjAnimation.xnb</Output>
+      <Time>2013-04-30T11:15:13.6699013+02:00</Time>
     </Item>
     <Item>
       <Source>Armor.png</Source>
@@ -538,8 +538,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Armor.xnb</Output>
-      <Time>2013-04-30T00:31:01.339286+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Armor.xnb</Output>
+      <Time>2013-04-30T11:15:13.3478829+02:00</Time>
     </Item>
     <Item>
       <Source>Sprites\Healer.png</Source>
@@ -547,8 +547,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Sprites\Healer.xnb</Output>
-      <Time>2013-04-30T00:31:01.9423204+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\Healer.xnb</Output>
+      <Time>2013-04-30T11:15:13.6689012+02:00</Time>
     </Item>
     <Item>
       <Source>Song\Song1.mp3</Source>
@@ -556,9 +556,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\Song1.xnb</Output>
-      <Extra>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\Song1.wma</Extra>
-      <Time>2013-04-30T00:31:01.6363029+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\Song1.xnb</Output>
+      <Extra>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\Song1.wma</Extra>
+      <Time>2013-04-30T11:15:13.5608951+02:00</Time>
     </Item>
     <Item>
       <Source>Song\Song2.mp3</Source>
@@ -566,9 +566,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\Song2.xnb</Output>
-      <Extra>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\Song2.wma</Extra>
-      <Time>2013-04-30T00:31:01.8323142+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\Song2.xnb</Output>
+      <Extra>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\Song2.wma</Extra>
+      <Time>2013-04-30T11:15:13.5928969+02:00</Time>
     </Item>
     <Item>
       <Source>Song\song3.mp3</Source>
@@ -576,9 +576,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\song3.xnb</Output>
-      <Extra>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\song3.wma</Extra>
-      <Time>2013-04-30T00:31:01.9373202+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\song3.xnb</Output>
+      <Extra>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\song3.wma</Extra>
+      <Time>2013-04-30T11:15:13.6669011+02:00</Time>
     </Item>
     <Item>
       <Source>Song\SongGameOver.mp3</Source>
@@ -586,9 +586,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\SongGameOver.xnb</Output>
-      <Extra>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\SongGameOver.wma</Extra>
-      <Time>2013-04-30T00:31:01.8743166+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\SongGameOver.xnb</Output>
+      <Extra>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\SongGameOver.wma</Extra>
+      <Time>2013-04-30T11:15:13.6218986+02:00</Time>
     </Item>
     <Item>
       <Source>Song\SongFight.mp3</Source>
@@ -596,9 +596,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\SongFight.xnb</Output>
-      <Extra>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\SongFight.wma</Extra>
-      <Time>2013-04-30T00:31:01.8583156+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\SongFight.xnb</Output>
+      <Extra>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\SongFight.wma</Extra>
+      <Time>2013-04-30T11:15:13.611898+02:00</Time>
     </Item>
     <Item>
       <Source>Song\Victory.mp3</Source>
@@ -606,18 +606,9 @@
       <Importer>Mp3Importer</Importer>
       <Processor>SongProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\Victory.xnb</Output>
-      <Extra>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Song\Victory.wma</Extra>
-      <Time>2013-04-30T00:31:01.8773167+02:00</Time>
-    </Item>
-    <Item>
-      <Source>SpriteFont1.spritefont</Source>
-      <Name>SpriteFont1</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
-      <Time>2013-04-30T02:16:28.3951729+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\Victory.xnb</Output>
+      <Extra>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Song\Victory.wma</Extra>
+      <Time>2013-04-30T11:15:13.6238987+02:00</Time>
     </Item>
     <Item>
       <Source>Intro.wmv</Source>
@@ -625,9 +616,18 @@
       <Importer>WmvImporter</Importer>
       <Processor>VideoProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Intro.xnb</Output>
-      <Extra>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Intro.wmv</Extra>
-      <Time>2013-04-30T00:31:01.3912889+02:00</Time>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Intro.xnb</Output>
+      <Extra>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Intro.wmv</Extra>
+      <Time>2013-04-30T11:15:13.4208871+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-04-30T11:15:13.6679012+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -635,39 +635,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\ProjectContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\ProjectContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Armand\Documents\GitHub\Project\Project\ProjectContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Armand\Documents\GitHub\Project\Project\Project\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Armand\Documents\GitHub\Project\Project\ProjectContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-23T13:41:18+02:00</Value>
+        <Value>2010-08-23T12:41:18+02:00</Value>
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2012-11-23T22:31:29.6439595+01:00</Value>
+        <Value>2011-08-03T17:33:58.6222029+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

@@ -71,8 +71,8 @@ Content\Song\SongFight.xnb
 Content\Song\SongFight.wma
 Content\Song\Victory.xnb
 Content\Song\Victory.wma
-Content\SpriteFont1.xnb
 Content\Intro.xnb
 Content\Intro.wmv
+Content\SpriteFont1.xnb
 Content\map5.txt
 Content\map8.txt
