@@ -60,9 +60,9 @@ namespace Project
             switch (item.type)
             {
                 case "Potion":
-                    if (item.effect == "health")
+                    if (item.effect == "health" && Game1.player.health < Game1.player.healthMax)
                         Game1.player.health += item.stat;
-                    if (item.effect == "mana")
+                    if (item.effect == "mana" && Game1.player.mana< Game1.player.manaMax)
                         Game1.player.mana += item.stat;
                     break;
 

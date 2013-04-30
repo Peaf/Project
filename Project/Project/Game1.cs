@@ -39,9 +39,7 @@ namespace Project
         StreamReader streamMap5 = new StreamReader("map5.txt");
         public static SpriteFont spriteFont;
 
-        //Vector2 textvect = new Vector2();
         bool Isfighting = false, inventaire = false, talking = false, playOnce = true;
-        //public static bool paused = false;
         int screenWidth, screenHeight; //taille de l'ecran
         public static float previousPosX, previousPosY;
         public static int bookState = 0;

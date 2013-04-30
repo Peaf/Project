@@ -307,10 +307,15 @@ namespace Project
                 }
                if (Keyboard.GetState().IsKeyDown(Keys.H))
                 {
-                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Level : " + Game1.player.Lvl, new Vector2(300, 200), Color.Black);
-                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Health : " + Game1.player.health, new Vector2(300, 250), Color.Red);
-                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Experience " + Game1.player.Experience + "/" + (Game1.player.Lvl * 100), new Vector2(300, 300), Color.Blue);  
-                }
+                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Level : " + Game1.player.Lvl, new Vector2(300, 200), Color.Red);
+                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Health : " + Game1.player.health + "/" + Game1.player.healthMax, new Vector2(300, 225), Color.Red);
+                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Mana : " + Game1.player.Intelligence + "/" + Game1.player.manaMax, new Vector2(300, 250), Color.Red);
+                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Experience : " + Game1.player.Experience + "/" + (Game1.player.Lvl * 100), new Vector2(300, 275), Color.Red);
+                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Strength : " + Game1.player.Strenght, new Vector2(300, 300), Color.Red);
+                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Degat : " + Game1.player.Degat, new Vector2(300, 325), Color.Red);
+                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Armor : " + Game1.player.Armor, new Vector2(300, 350), Color.Red);
+                    Game1.spriteBatch.DrawString(Game1.spriteFont, "Intelligence : " + Game1.player.Intelligence, new Vector2(300, 375), Color.Red);
+               }
                 spriteBatch.Draw(maison, new Rectangle(32 * 11, 0, 96, 128), Color.White);
                 if (Game1.enemy1.health > 0)
                     Game1.enemy1.Draw(spriteBatch);
