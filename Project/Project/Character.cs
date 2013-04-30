@@ -16,7 +16,7 @@ namespace Project
         public Rectangle persoRectangle;
         int screenWidth = 1366, screenHeight = 768;
 
-        int vitesse = 4; //test git hub
+        int vitesse = 2; //test git hub
         public int mapnumber = 5, health, ligne = 1, colonne = 1, mana, healthMax, manaMax, Experience, Strenght, Intelligence, Degat, Armor, Lvl, ExperienceNext;
         public string Direction;
         int timer = 0;
@@ -63,152 +63,250 @@ namespace Project
             {
                 if (KState.IsKeyDown(Keys.Q))
                 {
-                    //map.SourceRectangle = new Rectangle(map.SourceRectangle.Value.X - gameTime.ElapsedGameTime.Milliseconds / 5, map.SourceRectangle.Value.Y, 1300, 1000);
-
-                    Direction = "left";
-                    timer++;
-
-                    if (timer == 15)
+                    if (KState.IsKeyDown(Keys.LeftShift))
                     {
-                        timer = 0;
-                        if (colonne == 6)
+                        ligne = 6;
+                        timer++;
+                        if (timer == 15)
                         {
-                            colonne = 3;
+                            timer = 0;
+                            if (colonne == 5)
+                            {
+                                colonne = 2;
+                            }
+                            else
+                            {
+                                colonne++;
+                            }
+
+                        }
+                        Rectsprite = new Rectangle((colonne) * 32, (ligne) * 63, 30, 63);
+                        if (persoPosition.X <= 0)
+                        {
+                            map = map4;
+                            persoPosition.X = (screenWidth - persoTexture.Width / 6);
                         }
                         else
                         {
-                            colonne++;
+                            persoPosition += (new Vector2((-2*vitesse), 0));
                         }
-                    }
-
-                    if (persoPosition.X <= 0)
-                    {
-                        map = map4;
-                        persoPosition.X = (screenWidth - persoTexture.Width / 6);
                     }
                     else
                     {
-                        persoPosition += (new Vector2((-vitesse), 0));
+                        ligne = 1;
+                        timer++;
+                        if (timer == 15)
+                        {
+                            timer = 0;
+                            if (colonne == 5)
+                            {
+                                colonne = 2;
+                            }
+                            else
+                            {
+                                colonne++;
+                            }
+
+                        }
+                        Rectsprite = new Rectangle((colonne) * 32, (ligne) * 63, 30, 63);
+                        if (persoPosition.X <= 0)
+                        {
+                            map = map4;
+                            persoPosition.X = (screenWidth - persoTexture.Width / 6);
+                        }
+                        else
+                        {
+                            persoPosition += (new Vector2((-vitesse), 0));
+                        }
                     }
+                    
                 }
                 else if (KState.IsKeyDown(Keys.Z))
                 {
-                    //map.SourceRectangle = new Rectangle(map.SourceRectangle.Value.X, map.SourceRectangle.Value.Y - gameTime.ElapsedGameTime.Milliseconds /5, 1300, 1000);
-
-                    Direction = "up";
-                    timer++;
-
-                    if (timer == 15)
+                    if (KState.IsKeyDown(Keys.LeftShift))
                     {
-                        timer = 0;
-                        if (colonne == 6)
+                        ligne = 5;
+                        timer++;
+                        if (timer == 15)
                         {
-                            colonne = 2;
+                            timer = 0;
+                            if (colonne == 5)
+                            {
+                                colonne = 1;
+                            }
+                            else
+                            {
+                                colonne++;
+                            }
+
+                        }
+                        Rectsprite = new Rectangle(colonne * 32, ligne * 63, 30, 63);
+                        if (persoPosition.Y <= 0)
+                        {
+                            mapnumber += 3;
+                            persoPosition.Y = screenHeight - persoTexture.Height / 8;
                         }
                         else
                         {
-                            colonne++;
+                            persoPosition += new Vector2(0, -2*vitesse);
                         }
-                    }
-                    if (persoPosition.Y <= 0)
-                    {
-                        mapnumber += 3;
-                        persoPosition.Y = screenHeight - persoTexture.Height / 4;
                     }
                     else
                     {
-                        persoPosition += new Vector2(0, -vitesse);
+                        ligne = 2;
+                        timer++;
+                        if (timer == 15)
+                        {
+                            timer = 0;
+                            if (colonne == 5)
+                            {
+                                colonne = 1;
+                            }
+                            else
+                            {
+                                colonne++;
+                            }
+
+                        }
+                        Rectsprite = new Rectangle(colonne * 32, ligne * 63, 30, 63);
+                        if (persoPosition.Y <= 0)
+                        {
+                            mapnumber += 3;
+                            persoPosition.Y = screenHeight - persoTexture.Height / 8;
+                        }
+                        else
+                        {
+                            persoPosition += new Vector2(0, -vitesse);
+                        }
                     }
+                    
                 }
                 else if (KState.IsKeyDown(Keys.S))
                 {
-                    // map.SourceRectangle = new Rectangle(map.SourceRectangle.Value.X, map.SourceRectangle.Value.Y + gameTime.ElapsedGameTime.Milliseconds / 5, 1300, 1000);
-
-                    Direction = "down";
-                    timer++;
-
-
-                    if (timer == 15)
+                    if (KState.IsKeyDown(Keys.LeftShift))
                     {
-                        timer = 0;
-                        if (colonne == 6)
+                        timer++;
+                        ligne = 4;
+                        if (timer == 15)
                         {
-                            colonne = 2;
+                            timer = 0;
+                            if (colonne == 5)
+                            {
+                                colonne = 1;
+                            }
+                            else
+                            {
+                                colonne++;
+                            }
+
+                        }
+                        Rectsprite = new Rectangle(colonne * 32, ligne * 63, 30, 62);
+                        if (persoPosition.Y >= (screenHeight - persoTexture.Height / 8))
+                        {
+                            mapnumber -= 3;
+                            persoPosition.Y = 0;
                         }
                         else
                         {
-                            colonne++;
+                            persoPosition += new Vector2(0, 2*vitesse);
                         }
-                    }
-                    if (persoPosition.Y >= (screenHeight - persoTexture.Height / 4))
-                    {
-                        mapnumber -= 3;
-                        persoPosition.Y = 0;
+
                     }
                     else
                     {
-                        persoPosition += new Vector2(0, vitesse);
-                    }
+                        timer++;
+                        ligne = 0;
+                        if (timer == 15)
+                        {
+                            timer = 0;
+                            if (colonne == 5)
+                            {
+                                colonne = 1;
+                            }
+                            else
+                            {
+                                colonne++;
+                            }
 
+                        }
+                        Rectsprite = new Rectangle(colonne * 32, ligne * 63, 30, 62);
+                        if (persoPosition.Y >= (screenHeight - persoTexture.Height / 8))
+                        {
+                            mapnumber -= 3;
+                            persoPosition.Y = 0;
+                        }
+                        else
+                        {
+                            persoPosition += new Vector2(0, vitesse);
+                        }
+
+                    }
+                    
                 }
                 else if (KState.IsKeyDown(Keys.D))
                 {
-                    Direction = "right";
-                    timer++;
-
-
-                    if (timer == 15)
+                    if (KState.IsKeyDown(Keys.LeftShift))
                     {
-                        timer = 0;
-                        if (colonne == 6)
+                        timer++;
+                        ligne = 7;
+                        if (timer == 15)
                         {
-                            colonne = 3;
+                            timer = 0;
+                            if (colonne == 5)
+                            {
+                                colonne = 2;
+                            }
+                            else
+                            {
+                                colonne++;
+                            }
+                        }
+                        Rectsprite = new Rectangle(colonne * 32, ligne * 63, 30, 63);
+                        if (persoPosition.X >= (screenWidth - persoTexture.Width / 6))
+                        {
+                            mapnumber += 1;
+                            persoPosition.X = 0;
                         }
                         else
                         {
-                            colonne++;
+                            persoPosition += new Vector2(2* vitesse, 0);
                         }
-                    }
-                    if (persoPosition.X >= (screenWidth - persoTexture.Width / 6))
-                    {
-                        mapnumber += 1;
-                        persoPosition.X = 0;
+
                     }
                     else
                     {
-                        persoPosition += new Vector2(vitesse, 0);
+                        timer++;
+                        ligne = 3;
+                        if (timer == 15)
+                        {
+                            timer = 0;
+                            if (colonne == 5)
+                            {
+                                colonne = 2;
+                            }
+                            else
+                            {
+                                colonne++;
+                            }
+                        }
+                        Rectsprite = new Rectangle(colonne * 32, ligne * 63, 30, 63);
+                        if (persoPosition.X >= (screenWidth - persoTexture.Width / 6))
+                        {
+                            mapnumber += 1;
+                            persoPosition.X = 0;
+                        }
+                        else
+                        {
+                            persoPosition += new Vector2(vitesse, 0);
+                        }
+
                     }
-
+                   
                 }
+           
             }
-            switch (Direction)
-            {
-                case "up":
-
-                    ligne = 3;
-                    Rectsprite = new Rectangle((colonne - 1) * 32, (ligne - 1) * 63, 30, 63);
-                    break;
-
-                case "down":
-
-                    ligne = 1;
-                    Rectsprite = new Rectangle((colonne - 1) * 32, (ligne - 1) * 63, 30, 62);
-                    break;
-
-                case "left":
-
-                    ligne = 2;
-                    Rectsprite = new Rectangle((colonne - 1) * 32, (ligne - 1) * 63, 30, 63);
-                    break;
-                case "right":
-
-                    ligne = 4;
-                    Rectsprite = new Rectangle((colonne - 1) * 32, (ligne - 1) * 63, 30, 63);
-                    break;
-            }
-
-
-            persoRectangle = new Rectangle((int)persoPosition.X, (int)persoPosition.Y + persoTexture.Height / 8, persoTexture.Width / 12, persoTexture.Height / 8);
+            
+            persoRectangle = new Rectangle((int)persoPosition.X, (int)persoPosition.Y + persoTexture.Height / 16, persoTexture.Width / 12, persoTexture.Height / 16);
         }
 
         public void Draw(SpriteBatch spritBatch)
@@ -220,7 +318,7 @@ namespace Project
         {
             if (persoRectangle.TouchTopOf(newRectangle))
             {
-                persoPosition.Y = newRectangle.Y - persoRectangle.Height - persoTexture.Height / 8;
+                persoPosition.Y = newRectangle.Y - persoRectangle.Height - persoTexture.Height / 16;
             }
 
             if (persoRectangle.TouchLeftOf(newRectangle))
@@ -232,7 +330,7 @@ namespace Project
                 persoPosition.X = newRectangle.X + newRectangle.Width + 4;
             }
             if (persoRectangle.TouchBottomOf(newRectangle))
-                persoPosition.Y = newRectangle.Y + newRectangle.Height + 5 - persoTexture.Height / 8;
+                persoPosition.Y = newRectangle.Y + newRectangle.Height + 5 - persoTexture.Height / 16;
 
         }
     }

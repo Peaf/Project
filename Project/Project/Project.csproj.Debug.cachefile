@@ -1,4 +1,3 @@
-Content\Sprites\Player.xnb
 Content\Menu\MainMenu.xnb
 Content\Map\map5.xnb
 Content\Button\OptionsButton.xnb
@@ -38,7 +37,6 @@ Content\Button\ObjectsButton.xnb
 Content\Sprites\enemyfight.xnb
 Content\Button\StartFight.xnb
 Content\Button\EndFight.xnb
-Content\Tile\Tile10.xnb
 Content\Tile\Tile11.xnb
 Content\Tile\Tile3.xnb
 Content\Tile\Tile4.xnb
@@ -58,6 +56,10 @@ Content\Sword.xnb
 Content\Sprites\PnjAnimation.xnb
 Content\Armor.xnb
 Content\Sprites\Healer.xnb
+Content\Tile\Tile10.xnb
+Content\Sprites\enemy3.xnb
+Content\Sprites\enemy4.xnb
+Content\Sprites\Player.xnb
 Content\Song\Song1.xnb
 Content\Song\Song2.xnb
 Content\Song\song3.xnb
@@ -66,8 +68,6 @@ Content\Song\SongFight.xnb
 Content\Song\Victory.xnb
 Content\Intro.xnb
 Content\SpriteFont1.xnb
-Content\Sprites\enemy3.xnb
-Content\Sprites\enemy4.xnb
 Content\Song\Song1.wma
 Content\Song\Song2.wma
 Content\Song\song3.wma

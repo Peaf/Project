@@ -219,7 +219,6 @@ C:\Users\Victor\Documents\GitHub\Project\Project\Project\obj\x86\Debug\Microsoft
 C:\Users\Victor\Documents\GitHub\Project\Project\Project\obj\x86\Debug\Project.exe
 C:\Users\Victor\Documents\GitHub\Project\Project\Project\obj\x86\Debug\Project.pdb
 C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Sprites\Player.xnb
-C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Enemy2.xnb
 C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Menu\MainMenu.xnb
 C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Map\map5.xnb
 C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Button\OptionsButton.xnb
@@ -387,3 +386,5 @@ C:\Users\Armand\Documents\GitHub\Project\Project\Project\obj\x86\Debug\Project.e
 C:\Users\Armand\Documents\GitHub\Project\Project\Project\obj\x86\Debug\Project.pdb
 C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemy3.xnb
 C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemy4.xnb
+C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemy3.xnb
+C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemy4.xnb
