@@ -137,6 +137,9 @@ namespace Project
 
                 if (Game1.enemy2.health > 0)
                     Game1.enemy2.Update(gameTime, Game1.player.persoPosition);
+
+                
+
                 if (Game1.enemy1.Collision(Game1.player.persoPosition))
                 {
                     Game1.previousPosX = Game1.player.persoPosition.X;
@@ -159,6 +162,7 @@ namespace Project
                     Game1.enemy = Game1.enemy2;
                     attackChoisi = "";
                 }
+                
                 foreach (CollisionTiles tile in map5.CollisionTiles)
                 {
                     if (tile.num >= 7)
@@ -173,7 +177,35 @@ namespace Project
 
             if (map == map8)
             {
+                if (Game1.enemy3.health > 0)
+                    Game1.enemy3.Update(gameTime, Game1.player.persoPosition);
+
+                if (Game1.enemy4.health > 0)
+                    Game1.enemy4.Update(gameTime, Game1.player.persoPosition);
                 if (Game1.bookState == 0)
+
+                    if (Game1.enemy3.Collision(Game1.player.persoPosition))
+                    {
+                        Game1.previousPosX = Game1.player.persoPosition.X;
+                        Game1.previousPosY = Game1.player.persoPosition.Y;
+                        turn = -1;
+                        Game1.btnEndFight.isClicked = false;
+                        Isfighting = true;
+                        MediaPlayer.Play(song3);
+                        Game1.enemy = Game1.enemy3;
+                        attackChoisi = "";
+                    }
+                    else if (Game1.enemy4.Collision(Game1.player.persoPosition))
+                    {
+                        Game1.previousPosX = Game1.player.persoPosition.X;
+                        Game1.previousPosY = Game1.player.persoPosition.Y;
+                        turn = -1;
+                        Isfighting = true;
+                        MediaPlayer.Play(song3);
+                        Game1.btnEndFight.isClicked = false;
+                        Game1.enemy = Game1.enemy4;
+                        attackChoisi = "";
+                    }
                 {
                     Game1.pnj1.Update(gameTime, 0, "map8");
                 }
@@ -184,7 +216,7 @@ namespace Project
                     if (tile.num >= 7)
                         Game1.player.Collision(tile.Rectangle);
                 }
-                if (Character.persoRectangle.Intersects(bookRectangle))
+                if (Game1.player.persoRectangle.Intersects(bookRectangle))
                 {
                     Game1.bookState = 1;
                     Game1.invent.addItem(book);
@@ -345,7 +377,6 @@ namespace Project
                 }
                 if (Game1.bookState == 0)
                 {
-
                     spriteBatch.Draw(bookTexture, bookRectangle, Color.White);
                 }
 
@@ -360,6 +391,10 @@ namespace Project
                     spriteBatch.Draw(speechBoxTexture, speechBoxRectangle, Color.White);
                     spriteBatch.DrawString(Game1.spriteFont, "Arha: Can you kill these ennemies for me? I hope they are not too strong for you", new Vector2(10, 675), Color.Blue);
                 }
+                if (Game1.enemy3.health > 0)
+                    Game1.enemy3.Draw(spriteBatch);
+                if (Game1.enemy4.health > 0)
+                    Game1.enemy4.Draw(spriteBatch);
             }
 
             if (inventaire)

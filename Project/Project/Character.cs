@@ -13,7 +13,7 @@ namespace Project
         public Texture2D persoTexture;
         public Vector2 persoPosition;
         Rectangle Rectsprite;
-        public static Rectangle persoRectangle;
+        public Rectangle persoRectangle;
         int screenWidth = 1366, screenHeight = 768;
 
         int vitesse = 4; //test git hub

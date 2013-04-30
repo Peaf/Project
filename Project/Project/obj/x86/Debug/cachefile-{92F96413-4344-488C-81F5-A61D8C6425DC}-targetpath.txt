@@ -1,5 +1,4 @@
 Content\Sprites\Player.xnb
-Content\Enemy2.xnb
 Content\Menu\MainMenu.xnb
 Content\Map\map5.xnb
 Content\Button\OptionsButton.xnb
@@ -74,5 +73,7 @@ Content\Song\Victory.wma
 Content\Intro.xnb
 Content\Intro.wmv
 Content\SpriteFont1.xnb
+Content\Sprites\enemy3.xnb
+Content\Sprites\enemy4.xnb
 Content\map5.txt
 Content\map8.txt

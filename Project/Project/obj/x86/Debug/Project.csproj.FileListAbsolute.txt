@@ -303,7 +303,6 @@ C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Pro
 C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\obj\x86\Debug\Project.exe
 C:\Users\Victor\Documents\Travail\EPITA\SUP\Info\projet\Soutenance 3\Project\Project\Project\obj\x86\Debug\Project.pdb
 C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\Player.xnb
-C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Enemy2.xnb
 C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Menu\MainMenu.xnb
 C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Map\map5.xnb
 C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Button\OptionsButton.xnb
@@ -386,3 +385,5 @@ C:\Users\Armand\Documents\GitHub\Project\Project\Project\obj\x86\Debug\ResolveAs
 C:\Users\Armand\Documents\GitHub\Project\Project\Project\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Armand\Documents\GitHub\Project\Project\Project\obj\x86\Debug\Project.exe
 C:\Users\Armand\Documents\GitHub\Project\Project\Project\obj\x86\Debug\Project.pdb
+C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemy3.xnb
+C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemy4.xnb

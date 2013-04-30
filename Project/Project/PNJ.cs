@@ -24,7 +24,7 @@ namespace Project
 
         public bool Collision(Vector2 position)
         {
-            return (position.X <= pnjPosition.X && position.X >= pnjPosition.X - 40 && position.Y - pnjPosition.Y < 100 && position.Y - pnjPosition.Y > -30);
+            return (pnjRectangle.Intersects(Game1.player.persoRectangle));
         }
 
 

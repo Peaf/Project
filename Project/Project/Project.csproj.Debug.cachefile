@@ -1,5 +1,4 @@
 Content\Sprites\Player.xnb
-Content\Enemy2.xnb
 Content\Menu\MainMenu.xnb
 Content\Map\map5.xnb
 Content\Button\OptionsButton.xnb
@@ -67,6 +66,8 @@ Content\Song\SongFight.xnb
 Content\Song\Victory.xnb
 Content\Intro.xnb
 Content\SpriteFont1.xnb
+Content\Sprites\enemy3.xnb
+Content\Sprites\enemy4.xnb
 Content\Song\Song1.wma
 Content\Song\Song2.wma
 Content\Song\song3.wma

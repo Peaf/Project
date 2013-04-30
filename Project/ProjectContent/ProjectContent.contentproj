@@ -49,11 +49,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Enemy2.png">
-      <Name>Enemy2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
     <Compile Include="Menu\MainMenu.jpg">
       <Name>MainMenu</Name>
       <Importer>TextureImporter</Importer>
@@ -330,11 +325,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Tile\Tile10.png">
-      <Name>Tile10</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
     <Compile Include="Tile\Tile11.png">
       <Name>Tile11</Name>
       <Importer>TextureImporter</Importer>
@@ -478,6 +468,25 @@
   <ItemGroup>
     <Compile Include="Sprites\Healer.png">
       <Name>Healer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Tile\Tile10.png">
+      <Name>Tile10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Sprites\enemy3.png">
+      <Name>enemy3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+    <Compile Include="Sprites\enemy4.png">
+      <Name>enemy4</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>

@@ -11,15 +11,6 @@
       <Time>2013-04-30T11:15:13.6689012+02:00</Time>
     </Item>
     <Item>
-      <Source>Enemy2.png</Source>
-      <Name>Enemy2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Enemy2.xnb</Output>
-      <Time>2013-04-30T11:15:13.4138867+02:00</Time>
-    </Item>
-    <Item>
       <Source>Menu\MainMenu.jpg</Source>
       <Name>Menu\MainMenu</Name>
       <Importer>TextureImporter</Importer>
@@ -377,7 +368,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Tile\Tile10.xnb</Output>
-      <Time>2013-04-30T11:15:13.6739015+02:00</Time>
+      <Time>2013-04-30T11:48:47.7040975+02:00</Time>
     </Item>
     <Item>
       <Source>Tile\Tile11.png</Source>
@@ -628,6 +619,24 @@
       <Options>None</Options>
       <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
       <Time>2013-04-30T11:15:13.6679012+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemy3.png</Source>
+      <Name>Sprites\enemy3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemy3.xnb</Output>
+      <Time>2013-04-30T12:13:55.6703482+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\enemy4.png</Source>
+      <Name>Sprites\enemy4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Armand\Documents\GitHub\Project\Project\Project\bin\x86\Debug\Content\Sprites\enemy4.xnb</Output>
+      <Time>2013-04-30T12:13:55.6713483+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
